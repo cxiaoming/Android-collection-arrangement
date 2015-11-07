@@ -1,13 +1,14 @@
 # Android-collection-arrangement
 
 ##Android日常总结
-###没有进行分类
+#####尽管这样的总结很多，但我还是希望能自给总结一份，一来自己总结以后印象会比较深刻，以后用的时候可以快速查找，二来也是想更多的人知道这些好的知识。
 
 1. [知乎专栏](https://github.com/cxiaoming/Android-collection-arrangement#1-知乎专栏)
 2. [类似的总结](https://github.com/cxiaoming/Android-collection-arrangement#2-类似的总结)
 3. [专题](https://github.com/cxiaoming/Android-collection-arrangement#3-专题)
 4. [5.0控件使用](https://github.com/cxiaoming/Android-collection-arrangement#4-5.0控件使用)
 5. [工具](https://github.com/cxiaoming/Android-collection-arrangement#5-工具)
+6. [其它](https://github.com/cxiaoming/Android-collection-arrangement#6-其它)
 
 
 
@@ -22,6 +23,7 @@
 - [AndroidGuide](https://github.com/ColorfulCat/AndroidGuide) 
 - [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android) 
 - [Android 开发中的日常积累](https://github.com/lizhangqu/CoreLink) 
+- [有哪些关于 Android 开发的博客值得订阅？](http://www.zhihu.com/question/19788650)
 
 --
 
@@ -42,4 +44,8 @@
 ### 5. 工具
 - [Android开源项目第四篇——开发及测试工具篇](http://www.trinea.cn/android/android-open-source-projects-dev-tool/) 
 - [Android利用Fiddler进行网络数据抓包](http://www.trinea.cn/android/android-network-sniffer/)
+
+--
+### 6. 其它
+- []()
 
