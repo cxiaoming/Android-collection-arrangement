@@ -38,6 +38,8 @@
 - [配置出“NB”的Android Studio](http://blog.csdn.net/yy1300326388/article/details/46374229) 
 - [React-Native学习指南](https://github.com/ele828/react-native-guide) 
 - [微信开放](http://bss.csdn.net/m/topic/learning_path_weixin) 
+- [Android自定义控件其实很简单-爱哥](http://blog.csdn.net/column/details/androidcustomview.html)
+- [Android源码分析之设计模式](http://blog.csdn.net/column/details/android-dp.html)
 
 --
 
