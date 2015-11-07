@@ -46,6 +46,9 @@
 - [Android利用Fiddler进行网络数据抓包](http://www.trinea.cn/android/android-network-sniffer/)
 
 --
+
 ### 6. 其它
-- []()
+- [Android系统 索尼/LG 启动图标未读消息数提醒](https://forsberg.ax/blog/android-notification-badge-app-icon-sony/)
+- [准备拿到一份开源项目，快速定位感兴趣的功能代码](http://drakeet.me/quickly-locate-the-function-code)
+- [一个把时间转换成类似“几天前”一类模糊时间的类](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0822/3351.html)
 
