@@ -28,7 +28,6 @@
 - [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android) 
 - [Android 开发中的日常积累](https://github.com/lizhangqu/CoreLink) 
 - [有哪些关于 Android 开发的博客值得订阅？](http://www.zhihu.com/question/19788650)
-
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 - [topics:Android 精选话题讨论](https://github.com/android-cn/topics)
 
