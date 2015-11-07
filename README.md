@@ -48,6 +48,7 @@
 ### 5. 工具
 - [Android开源项目第四篇——开发及测试工具篇](http://www.trinea.cn/android/android-open-source-projects-dev-tool/) 
 - [Android利用Fiddler进行网络数据抓包](http://www.trinea.cn/android/android-network-sniffer/)
+- [推荐几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b)
 
 --
 
@@ -55,4 +56,8 @@
 - [Android系统 索尼/LG 启动图标未读消息数提醒](https://forsberg.ax/blog/android-notification-badge-app-icon-sony/)
 - [准备拿到一份开源项目，快速定位感兴趣的功能代码](http://drakeet.me/quickly-locate-the-function-code)
 - [一个把时间转换成类似“几天前”一类模糊时间的类](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0822/3351.html)
+- [Cool Android Apis 整理](http://oakzmm.com/2015/08/04/cool-Android-api/)
+- [Android开发中，有哪些让你觉得相见恨晚的方法、类或接口？](http://www.zhihu.com/question/33636939)
+- [RecyclerView适配器的超省写法](http://www.jianshu.com/p/1cec183729f6)
+- [ListView适配器的超省写法](http://www.jianshu.com/p/cef7b2808335)
 
