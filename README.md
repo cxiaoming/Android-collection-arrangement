@@ -12,6 +12,7 @@
 ### 1. 知乎专栏
 - [MAGI的专栏](http://zhuanlan.zhihu.com/magilu) 
 - [张明云的知识共享](http://zhuanlan.zhihu.com/zmywly8866) 
+
 ---
 
 ### 2. 类似的总结
