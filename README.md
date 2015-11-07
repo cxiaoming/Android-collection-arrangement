@@ -46,6 +46,7 @@
 - [Android Design Support Library 的 代码实验](http://www.jianshu.com/p/1078568e859f#) 
 - [Android RecyclerView源码与知识点汇总](http://bbs.apkbus.com/article/13899) 
 - [RecyclerView使用详解](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
+- [Android Material Design Library系列教程](http://blog.csdn.net/growth58/article/details/48112793)
 
 --
 
@@ -53,6 +54,9 @@
 - [Android开源项目第四篇——开发及测试工具篇](http://www.trinea.cn/android/android-open-source-projects-dev-tool/) 
 - [Android利用Fiddler进行网络数据抓包](http://www.trinea.cn/android/android-network-sniffer/)
 - [推荐几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b)
+- [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html)
+- [Android Studio使用技巧系列教程（1-7）](http://blog.csdn.net/growth58/article/details/46729803)
+- [Android Studio使用视频教程](http://www.itlanbao.com/vd/video.aspx?v=200035)
 
 --
 
