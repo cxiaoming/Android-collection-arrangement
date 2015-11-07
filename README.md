@@ -16,6 +16,10 @@
 ### 1. 知乎专栏
 - [MAGI的专栏](http://zhuanlan.zhihu.com/magilu) 
 - [张明云的知识共享](http://zhuanlan.zhihu.com/zmywly8866) 
+- [Android 科学院](http://zhuanlan.zhihu.com/andlib)
+- [Android Weekly](http://zhuanlan.zhihu.com/android-weekly)
+- [Android Tips](http://zhuanlan.zhihu.com/gracker)
+- [开发技术前线](http://zhuanlan.zhihu.com/tech-frontier)
 
 --
 
