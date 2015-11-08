@@ -39,6 +39,7 @@
 - [微信开放](http://bss.csdn.net/m/topic/learning_path_weixin) 
 - [Android自定义控件其实很简单-爱哥](http://blog.csdn.net/column/details/androidcustomview.html)
 - [Android源码分析之设计模式](http://blog.csdn.net/column/details/android-dp.html)
+- [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 --
 
@@ -57,6 +58,7 @@
 - [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html)
 - [Android Studio使用技巧系列教程（1-7）](http://blog.csdn.net/growth58/article/details/46729803)
 - [Android Studio使用视频教程](http://www.itlanbao.com/vd/video.aspx?v=200035)
+- [经得起检验的工具集](http://gank.io/tools)
 
 --
 
