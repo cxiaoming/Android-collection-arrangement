@@ -70,4 +70,5 @@
 - [Android开发中，有哪些让你觉得相见恨晚的方法、类或接口？](http://www.zhihu.com/question/33636939)
 - [RecyclerView适配器的超省写法](http://www.jianshu.com/p/1cec183729f6)
 - [ListView适配器的超省写法](http://www.jianshu.com/p/cef7b2808335)
+- [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
 
