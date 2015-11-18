@@ -72,4 +72,5 @@
 - [RecyclerView适配器的超省写法](http://www.jianshu.com/p/1cec183729f6)
 - [ListView适配器的超省写法](http://www.jianshu.com/p/cef7b2808335)
 - [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
+- [Android开发贴士集合1-5](http://blog.jobbole.com/67914/)
 
