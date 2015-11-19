@@ -31,6 +31,7 @@
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 - [topics:Android 精选话题讨论](https://github.com/android-cn/topics)
 - [Android-Tips: Android 技术相关人员必看](https://github.com/tangqi92/Android-Tips)
+- [awesome-android](https://github.com/snowdream/awesome-android)
 
 --
 
