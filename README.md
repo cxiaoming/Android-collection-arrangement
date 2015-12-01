@@ -9,6 +9,7 @@
 4. [5.0控件使用](https://github.com/cxiaoming/Android-collection-arrangement#4-5.0控件使用)
 5. [工具](https://github.com/cxiaoming/Android-collection-arrangement#5-工具)
 6. [其它](https://github.com/cxiaoming/Android-collection-arrangement#6-其它)
+7. [RxJava ](https://github.com/cxiaoming/Android-collection-arrangement#7-RxJava)
 
 
 
@@ -73,6 +74,18 @@
 - [Android开发中，有哪些让你觉得相见恨晚的方法、类或接口？](http://www.zhihu.com/question/33636939)
 - [RecyclerView适配器的超省写法](http://www.jianshu.com/p/1cec183729f6)
 - [ListView适配器的超省写法](http://www.jianshu.com/p/cef7b2808335)
-- [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
 - [Android开发贴士集合1-5](http://blog.jobbole.com/67914/)
 
+--
+
+### 7. RxJava
+- [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+- [RxJava 入门](http://mrfu.me/android/2015/11/11/Getting_Started_with_RxJava_and_Android/)
+- [深入浅出RxJava](http://blog.csdn.net/lzyzsd/article/details/41833541)
+- [指尖上的RxJava](http://mrfu.me/rxjava-keynote/#/)
+- [使用RxJava构造Android清晰框架](http://www.imooc.com/article/2028)
+- [谜之RxJava系列](http://segmentfault.com/a/1190000004049490)
+- [RxJava基本流程和lift源码分析](http://blog.csdn.net/lzyzsd/article/details/50110355#0-tsina-1-362-397232819ff9a47a7b7e80a40613cfe1)
+- [RxJava适用场景issue](https://github.com/lzyzsd/Awesome-RxJava/issues/9)
+- [使用RxJava 提升用户体验](http://www.jianshu.com/p/33c548bce571?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)
+- [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
