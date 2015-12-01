@@ -75,6 +75,8 @@
 - [RecyclerView适配器的超省写法](http://www.jianshu.com/p/1cec183729f6)
 - [ListView适配器的超省写法](http://www.jianshu.com/p/cef7b2808335)
 - [Android开发贴士集合1-5](http://blog.jobbole.com/67914/)
+- [腾讯Bugly干货分享：Android机型适配之痛](http://www.csdn.net/article/2015-09-08/2825645/1)
+
 
 --
 
