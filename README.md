@@ -91,3 +91,4 @@
 - [RxJava适用场景issue](https://github.com/lzyzsd/Awesome-RxJava/issues/9)
 - [使用RxJava 提升用户体验](http://www.jianshu.com/p/33c548bce571?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)
 - [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
+- [译文The introduction to Reactive Programming you've been missing](http://www.lightskystreet.com/2015/11/29/translate-introduction-to-reactive/#more)
