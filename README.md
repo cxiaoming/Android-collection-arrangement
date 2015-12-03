@@ -76,6 +76,7 @@
 - [ListView适配器的超省写法](http://www.jianshu.com/p/cef7b2808335)
 - [Android开发贴士集合1-5](http://blog.jobbole.com/67914/)
 - [腾讯Bugly干货分享：Android机型适配之痛](http://www.csdn.net/article/2015-09-08/2825645/1)
+- [整理项目开发中用到的开源框架封装、测试例子、开发中遇到的问题等](https://github.com/huangwm1984/AndroidBase)
 
 
 --
