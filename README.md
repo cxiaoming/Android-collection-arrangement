@@ -93,3 +93,4 @@
 - [使用RxJava 提升用户体验](http://www.jianshu.com/p/33c548bce571?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)
 - [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
 - [译文The introduction to Reactive Programming you've been missing](http://www.lightskystreet.com/2015/11/29/translate-introduction-to-reactive/#more)
+- [@hi大头鬼hi 在GDG defest演讲视频](http://boolan.com/lecture/1000001243#0-tsina-1-68759-397232819ff9a47a7b7e80a40613cfe1)
