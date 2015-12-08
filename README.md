@@ -68,6 +68,7 @@
 
 ### 6. 其它
 - [Android系统 索尼/LG 启动图标未读消息数提醒](https://forsberg.ax/blog/android-notification-badge-app-icon-sony/)
+- [Badge分析&如何逼死处女座（上面的问题）](http://www.jianshu.com/p/0992ff9eeeb6?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo#)
 - [准备拿到一份开源项目，快速定位感兴趣的功能代码](http://drakeet.me/quickly-locate-the-function-code)
 - [一个把时间转换成类似“几天前”一类模糊时间的类](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0822/3351.html)
 - [Cool Android Apis 整理](http://oakzmm.com/2015/08/04/cool-Android-api/)
