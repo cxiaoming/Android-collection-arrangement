@@ -77,6 +77,7 @@
 - [Android开发贴士集合1-5](http://blog.jobbole.com/67914/)
 - [腾讯Bugly干货分享：Android机型适配之痛](http://www.csdn.net/article/2015-09-08/2825645/1)
 - [整理项目开发中用到的开源框架封装、测试例子、开发中遇到的问题等](https://github.com/huangwm1984/AndroidBase)
+- [安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis)
 
 
 --
