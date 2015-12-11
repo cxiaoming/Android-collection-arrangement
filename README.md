@@ -34,6 +34,7 @@
 - [Android-Tips: Android 技术相关人员必看](https://github.com/tangqi92/Android-Tips)
 - [awesome-android](https://github.com/snowdream/awesome-android)
 - [Android-Learning-Resources](https://github.com/zhujun2730/Android-Learning-Resources)
+- [awesome-android](https://github.com/JStumpp/awesome-android)
 
 --
 
