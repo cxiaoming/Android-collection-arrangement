@@ -98,3 +98,4 @@
 - [译文The introduction to Reactive Programming you've been missing](http://www.lightskystreet.com/2015/11/29/translate-introduction-to-reactive/#more)
 - [@hi大头鬼hi 在GDG defest演讲视频](http://boolan.com/lecture/1000001243#0-tsina-1-68759-397232819ff9a47a7b7e80a40613cfe1)
 - [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/)
+- [RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
