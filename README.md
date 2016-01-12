@@ -65,6 +65,7 @@
 - [Android Studio使用技巧系列教程（1-7）](http://blog.csdn.net/growth58/article/details/46729803)
 - [Android Studio使用视频教程](http://www.itlanbao.com/vd/video.aspx?v=200035)
 - [经得起检验的工具集](http://gank.io/tools)
+- [Gradle for Android](http://segmentfault.com/a/1190000004229002)
 
 --
 
