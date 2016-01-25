@@ -36,6 +36,7 @@
 - [Android-Learning-Resources](https://github.com/zhujun2730/Android-Learning-Resources)
 - [awesome-android](https://github.com/JStumpp/awesome-android)
 - [android-dev-bookmarks-Android 开发者站点资源](https://github.com/zhengxiaopeng/android-dev-bookmarks)
+- [Android-Dev-Favorites](https://github.com/ruijun/Android-Dev-Favorites)
 
 --
 
